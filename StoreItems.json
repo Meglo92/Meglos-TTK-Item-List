@@ -4124,19 +4124,19 @@
 	},
 	{
 		"abr": "fissionmouse",
-		"price": 58,
+		"price": 58000,
 		"category": "Animals",
 		"defname": "AA_FissionMouse"
 	},
 	{
 		"abr": "fissionmouse,secondgeneration",
-		"price": 58,
+		"price": 58000,
 		"category": "Animals",
 		"defname": "AA_FissionMouseSecond"
 	},
 	{
 		"abr": "fissionmouse,thirdgeneration",
-		"price": 58,
+		"price": 58000,
 		"category": "Animals",
 		"defname": "AA_FissionMouseThird"
 	},
@@ -5090,7 +5090,7 @@
 	},
 	{
 		"abr": "anchovy",
-		"price": 0,
+		"price": -10,
 		"category": "Raw fish",
 		"defname": "VCEF_RawAnchovy"
 	},
@@ -5222,7 +5222,7 @@
 	},
 	{
 		"abr": "arcanespell:gateway",
-		"price": 4767,
+		"price": 2500,
 		"category": "Scrolls",
 		"defname": "SpellOf_FoldReality"
 	},
@@ -6398,7 +6398,7 @@
 	},
 	{
 		"abr": "guppy",
-		"price": 0,
+		"price": 1,
 		"category": "Raw fish",
 		"defname": "VCEF_RawGuppy"
 	},
@@ -6992,7 +6992,7 @@
 	},
 	{
 		"abr": "mashedpomana",
-		"price": 0,
+		"price": 1,
 		"category": "Vegetarian",
 		"defname": "TM_RawPomanaMash"
 	},
@@ -7040,7 +7040,7 @@
 	},
 	{
 		"abr": "minnow",
-		"price": 0,
+		"price": 1,
 		"category": "Raw fish",
 		"defname": "VCEF_RawMinnow"
 	},
@@ -7706,7 +7706,7 @@
 	},
 	{
 		"abr": "sprat",
-		"price": 0,
+		"price": 1,
 		"category": "Raw fish",
 		"defname": "VCEF_RawSprat"
 	},
@@ -8606,7 +8606,7 @@
 	},
 	{
 		"abr": "boarman",
-		"price": 11667,
+		"price": -10,
 		"category": "Animal",
 		"defname": "WildBoarMan"
 	},
@@ -8618,13 +8618,13 @@
 	},
 	{
 		"abr": "chitine",
-		"price": 3333,
+		"price": -10,
 		"category": "Animal",
 		"defname": "O21_FR_Chitine"
 	},
 	{
 		"abr": "crocodillian",
-		"price": 2500,
+		"price": -10,
 		"category": "Animal",
 		"defname": "FR_Alien_Croco"
 	},
@@ -8642,13 +8642,13 @@
 	},
 	{
 		"abr": "darkelf",
-		"price": 3333,
+		"price": -10,
 		"category": "Animal",
 		"defname": "O21_FR_DarkElf"
 	},
 	{
 		"abr": "dwarf",
-		"price": 2917,
+		"price": -10,
 		"category": "Animal",
 		"defname": "O21_FR_Dwarf"
 	},
@@ -8666,7 +8666,7 @@
 	},
 	{
 		"abr": "firbolg",
-		"price": 3333,
+		"price": -10,
 		"category": "Animal",
 		"defname": "O21_FR_Firbolg"
 	},
@@ -8678,31 +8678,31 @@
 	},
 	{
 		"abr": "gith",
-		"price": 3333,
+		"price": -10,
 		"category": "Animal",
 		"defname": "O21_FR_Gith"
 	},
 	{
 		"abr": "goblin",
-		"price": 3333,
+		"price": -10,
 		"category": "Animal",
 		"defname": "O21_FR_Goblin"
 	},
 	{
 		"abr": "halfling",
-		"price": 2917,
+		"price": -10,
 		"category": "Animal",
 		"defname": "O21_FR_Halfling"
 	},
 	{
 		"abr": "half-orc",
-		"price": 3333,
+		"price": -10,
 		"category": "Animal",
 		"defname": "O21_FR_HalfOrc"
 	},
 	{
 		"abr": "hobgoblin",
-		"price": 3333,
+		"price": -10,
 		"category": "Animal",
 		"defname": "O21_FR_Hobgoblin"
 	},
@@ -8714,25 +8714,25 @@
 	},
 	{
 		"abr": "illithid",
-		"price": 3333,
+		"price": -10,
 		"category": "Animal",
 		"defname": "O21_FR_Illithid"
 	},
 	{
 		"abr": "killoren",
-		"price": 3333,
+		"price": -10,
 		"category": "Animal",
 		"defname": "O21_FR_Killoren"
 	},
 	{
 		"abr": "kobold",
-		"price": 2500,
+		"price": -10,
 		"category": "Animal",
 		"defname": "O21_FR_Kobold"
 	},
 	{
 		"abr": "minotaur",
-		"price": 3583,
+		"price": -10,
 		"category": "Animal",
 		"defname": "FR_Alien_Minotaur"
 	},
@@ -8750,13 +8750,13 @@
 	},
 	{
 		"abr": "moonelf",
-		"price": 3333,
+		"price": -10,
 		"category": "Animal",
 		"defname": "O21_FR_MoonElf"
 	},
 	{
 		"abr": "neocanine",
-		"price": 5833,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Neocanine"
 	},
@@ -8768,7 +8768,7 @@
 	},
 	{
 		"abr": "orc",
-		"price": 3333,
+		"price": -10,
 		"category": "Animal",
 		"defname": "O21_FR_Orc"
 	},
@@ -8786,7 +8786,7 @@
 	},
 	{
 		"abr": "squamata",
-		"price": 2500,
+		"price": -10,
 		"category": "Animal",
 		"defname": "FR_Alien_Squamata"
 	},
@@ -8804,13 +8804,13 @@
 	},
 	{
 		"abr": "sunelf",
-		"price": 3333,
+		"price": -10,
 		"category": "Animal",
 		"defname": "O21_FR_SunElf"
 	},
 	{
 		"abr": "tabaxi",
-		"price": 3333,
+		"price": -10,
 		"category": "Animal",
 		"defname": "O21_FR_Tabaxi"
 	},
@@ -8822,22 +8822,34 @@
 	},
 	{
 		"abr": "tiefling",
-		"price": 3333,
+		"price": -10,
 		"category": "Animal",
 		"defname": "O21_FR_Tiefling"
 	},
 	{
 		"abr": "warforged",
-		"price": 4167,
+		"price": -10,
 		"category": "Animal",
 		"defname": "O21_FR_Warforged"
 	},
 	{
 		"abr": "woodelf",
-		"price": 3333,
+		"price": -10,
 		"category": "Animal",
 		"defname": "O21_FR_WoodElf"
-	}
+	},
+	{
+		"abr": "headcrabcannister",
+		"price": 92,
+		"category": "Mortar shells",
+		"defname": "Shell_Headcrab"
+	},
+	{
+		"abr": "headcrabshelllauncher",
+		"price": 1058,
+		"category": "Security",
+		"defname": "Turret_HeadcrabLauncher"
+	},
 	],
-	"total": 1473
+	"total": 1481
 }
