@@ -11945,7 +11945,127 @@
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_Yutyrannus"
+	},
+	{
+		"abr": "arcticrazorbill",
+		"price": 433,
+		"category": "Animals",
+		"defname": "ZDuck_ArcticRazorbill"
+	},
+	{
+		"abr": "buffledown",
+		"price": 4,
+		"category": "Wools",
+		"defname": "ZDuck_Buffledown"
+	},
+	{
+		"abr": "buffleheadegg(fert.)",
+		"price": 35,
+		"category": "Eggs (fert.)",
+		"defname": "ZDuck_EggBuffleheadFertilized"
+	},
+	{
+		"abr": "cayuga",
+		"price": 150,
+		"category": "Animals",
+		"defname": "ZDuck_Cayuga"
+	},
+	{
+		"abr": "cayugaegg(fert.)",
+		"price": 18,
+		"category": "Eggs (fert.)",
+		"defname": "ZDuck_EggCayugaFertilized"
+	},
+	{
+		"abr": "cayugaegg(unfert.)",
+		"price": 18,
+		"category": "Eggs (unfert.)",
+		"defname": "ZDuck_EggCayugaUnfertilized"
+	},
+	{
+		"abr": "desertrazorbill",
+		"price": 367,
+		"category": "Animals",
+		"defname": "ZDuck_DesertRazorbill"
+	},
+	{
+		"abr": "ducky",
+		"price": 67,
+		"category": "Animals",
+		"defname": "ZDuck_Ducky"
+	},
+	{
+		"abr": "duckyegg(fert.)",
+		"price": 12,
+		"category": "Eggs (fert.)",
+		"defname": "ZDuck_EggDuckyFertilized"
+	},
+	{
+		"abr": "duckyegg(unfert.)",
+		"price": 12,
+		"category": "Eggs (unfert.)",
+		"defname": "ZDuck_EggDuckyUnfertilized"
+	},
+	{
+		"abr": "eiderpintail",
+		"price": 750,
+		"category": "Animals",
+		"defname": "ZDuck_EiderPintail"
+	},
+	{
+		"abr": "eiderpintailegg(fert.)",
+		"price": 55,
+		"category": "Eggs (fert.)",
+		"defname": "ZDuck_EggEiderPintailFertilized"
+	},
+	{
+		"abr": "eiderdown",
+		"price": 7,
+		"category": "Wools",
+		"defname": "ZDuck_Eiderdown"
+	},
+	{
+		"abr": "greatermallard",
+		"price": 500,
+		"category": "Animals",
+		"defname": "ZDuck_GreaterMallard"
+	},
+	{
+		"abr": "greatermallardegg(fert.)",
+		"price": 35,
+		"category": "Eggs (fert.)",
+		"defname": "ZDuck_EggGreaterMallardFertilized"
+	},
+	{
+		"abr": "quackodile",
+		"price": 667,
+		"category": "Animals",
+		"defname": "ZDuck_Quackodile"
+	},
+	{
+		"abr": "quackodileegg(fert.)",
+		"price": 53,
+		"category": "Eggs (fert.)",
+		"defname": "ZDuck_EggQuackodileFertilized"
+	},
+	{
+		"abr": "rudderduck",
+		"price": 383,
+		"category": "Animals",
+		"defname": "ZDuck_RudderDuck"
+	},
+	{
+		"abr": "rudderduckegg(fert.)",
+		"price": 37,
+		"category": "Eggs (fert.)",
+		"defname": "ZDuck_EggRudderDuckFertilized"
+	},
+	{
+		"abr": "woollybufflehead",
+		"price": 367,
+		"category": "Animals",
+		"defname": "ZDuck_Bufflehead"
 	}
 	],
-	"total": 1991
+	"total": 2011
 }
